@@ -13,21 +13,22 @@ Git - Sistema de controle de versões distribuído
  - 6.2.4.Config
  - 6.2.5.Commit
  - 6.2.6.Log
- - Versionamento em nuvem
+ 
+Versionamento em nuvem
 
-7.1. Serviços
-7.1.1.Github
-7.1.2.BitBucket
-7.1.3.Azure Repository
-git ~ eyck
-git é um sistema de armezenamento de versoes de um codigo-fonte
+ - 7.1. Serviços
+ - 7.1.1.Github
+ - 7.1.2.BitBucket
+ - 7.1.3.Azure Repository
+ - git ~ eyck
+ - git é um sistema de armezenamento de versoes de um codigo-fonte
 
 principais caracteristicas
-controle de versões
-gerencia todos arquivos em uma pasta
-distribuido
+ - controle de versões
+ - gerencia todos arquivos em uma pasta
+ - distribuido
 permite controle do projeto em diferentes compurtadores atraves de um "clone" do projeto
-git init ~ julio
+ - git init ~ julio
 O comando git init normalmente é o primeiro comando utilizado em um projeto Git. Ele transforma uma pasta comum do computador em um repositório Git, permitindo o controle de versões dos arquivos e a execução dos comandos do Git no diretório.
 
 principais caracteristicas
